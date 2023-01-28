@@ -1,10 +1,10 @@
 # Full Planet MBTiles
 
-This is the whole planet, ~72GB download, conveniently named for use with a default [SwiftTileServer](https://github.com/123FLO321/SwiftTileserverCache) install. I cannot currently find a way to cURL or wget this properly, let me know if anyone knows a way.
+This is the whole planet, ~72GB download, conveniently named for use with a default [SwiftTileServer](https://github.com/123FLO321/SwiftTileserverCache) install.
 
 I will likely be redoing this once a month or so, last run date:
 
-2023/01/23 - https://1drv.ms/u/s!AsKn69WQVywljRdP0tK3onKe8NX5
+2023/01/23 - http://138.201.126.21/SenorKarlos-2023-01-23-planet.mbtiles
 
 # Regional Files
 
