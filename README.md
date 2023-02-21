@@ -4,7 +4,7 @@ This is the whole planet, ~72GB download, conveniently named for use with a defa
 
 I will likely be redoing this once a month or so, last run date:
 
-2023/01/23 - http://138.201.126.21/SenorKarlos-2023-01-23-planet.mbtiles
+2023/01/23 - https://1drv.ms/u/s!AsKn69WQVywljRdP0tK3onKe8NX5 (no cURL/wget)
 
 # Regional Files
 
