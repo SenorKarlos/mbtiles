@@ -4,11 +4,18 @@ This is the whole planet, ~72GB download, conveniently named for use with a defa
 
 I will likely be redoing this once a month or so, last run date:
 
-2023/01/23 - https://1drv.ms/u/s!AsKn69WQVywljRdP0tK3onKe8NX5 (no cURL/wget)
+2023/01/23 - https://mbtiles.top/planet/Combined.mbtiles
 
 # Regional Files
 
-If you want to use a smaller extract with your tileserver, you can use a node utility called tilelive-copy. The following is from the repo used to create the mbtiles, use whatever applies for your environment:
+While the full planet file works just fine, presumably extracts might run better. I have always just ran from the planet file. 
+
+There is about 100GB free space to play with on the server, so if anyone wants to sponsor me I will take requests and perform region extracts to include. If any, they will be listed here with sponsor(s) credit. Additional space can be acquired if required.
+```
+Nothing yet!
+```
+
+If you want to do an extract yourself, you can use a node utility called tilelive-copy. The following is from the repo used to create the mbtiles, use whatever applies for your environment:
 ```
 # install node and tilelive-copy
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
