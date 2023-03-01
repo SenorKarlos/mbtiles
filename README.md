@@ -4,7 +4,7 @@ This is the whole planet, ~72GB download, conveniently named for use with a defa
 
 I will likely be redoing this once a month or so, last run date:
 
-2023/01/23 - https://mbtiles.top/planet/Combined.mbtiles
+2023/02/28 - https://mbtiles.top/planet/Combined.mbtiles
 
 # Regional Files
 
