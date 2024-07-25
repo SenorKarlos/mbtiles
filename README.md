@@ -2,7 +2,7 @@
 
 This is the whole planet, ~72GB download, conveniently named for use with a default [SwiftTileServer](https://github.com/123FLO321/SwiftTileserverCache) install.
 
-I will likely be redoing this once a month or so, last run date:
+Last run date:
 
 2023/12/01 - https://mbtiles.top/planet/Combined.mbtiles
 
